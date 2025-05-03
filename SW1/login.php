@@ -84,7 +84,7 @@
 
 <body>
     <div class="container">
-        <form action="SW1_#3.php" method="post">
+        <form action="login.php" method="post">
             <h2>SIGN IN</h2>
             <div class="info">
                 <label>Username: </label><br>

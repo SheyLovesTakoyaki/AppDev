@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    background-color: rgba(255, 182, 193);
+    background-image: url('ribbon.jpg');
+    background-blend-mode: soft-light;
+}
+
+h1, h2, th {
+    text-align: center;
+}
+
+.header-row {
+    background-color: whitesmoke;
+    color: palevioletred;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  background: palevioletred;
+  padding: 30px 40px;
+  border-radius: 50px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+  background-image: url('catstress.jpg');
+  background-blend-mode: lighten;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 200%;
+} 
+
+.info {
+    line-height: 1.8;
+}
+
+.courses-table {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mood-table {
+    width: 100%;
+}
