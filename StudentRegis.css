@@ -1,0 +1,10 @@
+body {
+    padding: 40px;
+    background-color: #F5F5F5;
+    color: #16610E;
+}
+
+::selection {
+  background-color: #16610E; /* kulay ng background ng highlight */
+  color: #F5F5F5; /* kulay ng text habang naka-highlight */
+}
